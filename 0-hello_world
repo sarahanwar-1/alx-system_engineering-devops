@@ -1,2 +1,2 @@
 #!/bin/bash
-touch 'Hello_world'
+ lpr 'helloe world'
